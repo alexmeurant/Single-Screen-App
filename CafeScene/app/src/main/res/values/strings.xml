@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Cafe Scene</string>
-    <string name="description">Restaurant le midi, le Café Scène se transforme le soir en restaurant-musique-live-karaoké-bar.
-\nAvec une carte variée qui change avec les saisons, inspirée de la cuisine méditerranéenne et du monde.</string>
+    <string name="description">Restaurant le midi, le Café Scène se transforme le soir en <b><font fgcolor="#CD3F5F">restaurant-musique-live-karaoké.</font></b>\n
+        Avec une carte variée qui change avec les saisons, inspirée de la cuisine méditerranéenne et du monde.</string>
 </resources>
