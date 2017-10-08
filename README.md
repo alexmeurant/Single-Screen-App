@@ -14,3 +14,7 @@ Your design must include:
   * Address of the Business
   * Description of business
   * Hours of operation
+  
+## Final result of my projet
+
+![cafescene](https://user-images.githubusercontent.com/18213190/31318363-37e11310-ac51-11e7-87e3-be9fba2c5ca1.jpg)
